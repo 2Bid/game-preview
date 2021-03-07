@@ -1,0 +1,51 @@
+
+/* CardDetail Info */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Roboto:wght@300&display=swap');
+
+.container {
+    text-align: center;
+    font-family : 'roboto' ;
+    height: 4800px;
+    width: 100%;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+}
+.container a {
+    font-size : 40px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color : #ddd
+}
+.container h1 {
+    font-size : 40px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color : #ddd
+}
+.plateformes-img{
+    width: 45px;
+    height: 45px;
+}
+.container p {
+    font-size: 22px;
+    font-family : 'Montserrat' ;
+}
+.description {
+    padding : 0 250px;
+    font-size: 22px;
+    font-family : 'Montserrat' ;
+    margin-bottom: 100px;
+}
+.row1 img{
+    width: 50%
+}
+
+.row1{
+    width: 100vh;
+}
+
+.row-video{
+    width: 100%;
+}

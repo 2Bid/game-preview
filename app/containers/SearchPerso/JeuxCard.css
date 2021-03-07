@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Michroma&family=Montserrat&display=swap');
+
+.root{
+        width : 500px;
+        text-align :  'center';
+        border-radius :'15px';
+        font-family: 'Michroma';
+}
+
+.card{
+    padding-bottom: 350px;
+    background: linear-gradient(#fceff9, #f1ac5f);
+
+}
+
+.media {
+    height: 350px;
+}
+.media:hover{
+    opacity: 0.6;
+    padding-bottom: 300px;
+}
+.content{
+    color: black;
+    font-family: 'Montserrat';
+}
